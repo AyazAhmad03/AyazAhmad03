@@ -6,21 +6,23 @@
 ## 🛠️ Tech Stack
 
 - **Programming Languages:** Python | C++ | C | Java | SQL
-- **Machine Learning:** Data Preprocessing | Exploratory Data Analysis (EDA) | Machine Learning Algorithms | Model Training | Model Evaluation
-- **Deep Learning:** Artificial Neural Networks (ANNs) | Convolutional Neural Networks (CNNs) | Recurrent Neural Networks (RNNs) | Long Short-Term Memory (LSTMs) | Transfer Learning | TensorFlow | PyTorch
-- **Natural Language Processing (NLP):** Text Preprocessing | Sentiment Analysis | Named Entity Recognition (NER) | Word2Vec | GloVe | Transformers
-- **Generative AI:** Large Language Models (LLMs) | Prompt Engineering | Retrieval-Augmented Generation (RAG) | AI Agents | LangChain | Hugging Face | ChromaDB
+- **Machine Learning:** Data Preprocessing | EDA | ML Algorithms | Model Training & Evaluation
+- **Deep Learning:** Neural Networks | CNNs | RNNs | LSTMs | Transfer Learning | TensorFlow | PyTorch
+- **NLP:** Text Preprocessing | Sentiment Analysis | Named Entity Recognition (NER) | Word2Vec | GloVe | Transformers
+- **Generative AI:** LLMs | RAG | Prompt Engineering | AI Agents | LangChain | Hugging Face | ChromaDB
 - **Web Development:** HTML | CSS | JavaScript | Streamlit | Flask
 - **Tools & Technologies:** Git | GitHub | VS Code | Jupyter Notebook | Google Colab | IDLE
 
 
 ## 🌟 Featured Project
 
-### 📚 RABOT – AI Research Assistant
+- **RABOT**
+  
+## 🚀 Highlight Projects
 
-An AI-powered Research Assistant built using Retrieval-Augmented Generation (RAG) that enables users to search, analyze, summarize, and interact with research papers using natural language.
-
-**Tech Stack:** Python | LangChain | ChromaDB | Hugging Face | Groq | Streamlit | OpenAlex API | ArXiv
+- **RABOT**
+  
+  Developed an AI-powered Research Assistant using RAG, enabling users to search research papers, retrieve relevant information, generate structured summaries, and interact with papers through context-aware natural language question answering.
 
 🔗 **Repository:** https://github.com/AyazAhmad03/RABOT-Research-Analyst-Assistant-BOT-
 
