@@ -3,106 +3,32 @@
 
 ---
 
-## 🚀 About Me
-
-I'm an AI Engineer passionate about building intelligent applications using Machine Learning, Deep Learning, Natural Language Processing, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI Agents.
-
-- 🎓 B.Tech in Artificial Intelligence & Machine Learning
-- 🤖 Passionate about AI Engineering and Generative AI
-- 📚 Currently exploring Agentic AI, LangGraph, MCP, and MLOps
-- 💡 Interested in solving real-world problems through AI
-
----
-
 ## 🛠️ Tech Stack
 
-### Programming Languages
-- Python
-- SQL
-- C++
+- **Programming Languages:** Python | C++ | C | Java | SQL
+- **Machine Learning:** Data Preprocessing | Exploratory Data Analysis (EDA) | Machine Learning Algorithms | Model Training | Model Evaluation
+- **Deep Learning:** Artificial Neural Networks (ANNs) | Convolutional Neural Networks (CNNs) | Recurrent Neural Networks (RNNs) | Long Short-Term Memory (LSTMs) | Transfer Learning | TensorFlow | PyTorch
+- **Natural Language Processing (NLP):** Text Preprocessing | Sentiment Analysis | Named Entity Recognition (NER) | Word2Vec | GloVe | Transformers
+- **Generative AI:** Large Language Models (LLMs) | Prompt Engineering | Retrieval-Augmented Generation (RAG) | AI Agents | LangChain | Hugging Face | ChromaDB
+- **Web Development:** HTML | CSS | JavaScript | Streamlit | Flask
+- **Tools & Technologies:** Git | GitHub | VS Code | Jupyter Notebook | Google Colab | IDLE
 
-### Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Natural Language Processing (NLP)
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Generative AI
 
-### Frameworks & Libraries
-- LangChain
-- Hugging Face Transformers
-- TensorFlow
-- PyTorch
-- Scikit-learn
-- Pandas
-- NumPy
-- ChromaDB
+## 🌟 Featured Project
 
-### Deployment & Tools
-- Streamlit
-- Flask
-- Git
-- GitHub
-- Railway
-- DigitalOcean
-- VS Code
+### 📚 RABOT – AI Research Assistant
 
----
+An AI-powered Research Assistant built using Retrieval-Augmented Generation (RAG) that enables users to search, analyze, summarize, and interact with research papers using natural language.
 
-# 🌟 Featured Project
+**Tech Stack:** Python | LangChain | ChromaDB | Hugging Face | Groq | Streamlit | OpenAlex API | ArXiv
 
-## 📚 RABOT — AI Research Assistant
+🔗 **Repository:** https://github.com/AyazAhmad03/RABOT-Research-Analyst-Assistant-BOT-
 
-An AI-powered Research Assistant that enables users to discover, analyze, and interact with research papers using Retrieval-Augmented Generation (RAG).
 
-### Key Features
+## 📫 Let's Connect
 
-- 🔍 Search research papers using OpenAlex
-- 📄 Automatic research paper retrieval
-- 🧠 Semantic search powered by ChromaDB
-- 🤖 Context-aware question answering with LLMs
-- 💬 Conversational interface for research paper exploration
-- 📑 Structured research paper summarization
-- 📤 Manual PDF upload support
-- ⚡ Interactive Streamlit web application
+- **Email:** <a href="mailto:ayazahmad5652@gmail.com">ayazahmad5652@gmail.com</a>
 
-### Tech Stack
-
-- LangChain
-- ChromaDB
-- Hugging Face Embeddings
-- Groq LLM
-- Streamlit
-- OpenAlex API
-- ArXiv
-- Python
-
-🔗 **Repository:**  
-https://github.com/AyazAhmad03/RABOT-Research-Analyst-Assistant-BOT-
-
----
-
-## 📈 Currently Learning
-
-- Agentic AI
-- LangGraph
-- MCP (Model Context Protocol)
-- Advanced RAG Systems
-- Multi-Agent Systems
-- MLOps
-- Cloud Deployment
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/AyazAhmad03
-- LinkedIn: *(Add your LinkedIn URL here)*
-- Email: *(Add your professional email here)*
-
----
 
 <p align="center">
 <i>"Building AI systems that transform information into intelligence."</i>
