@@ -1,5 +1,5 @@
-<h1 align="Left">Ayaz Ahmad</h1>
-<h3 align="Left">AI Engineer</h3>
+<h1 align="Centre">Ayaz Ahmad</h1>
+<h3 align="Centre">AI Engineer</h3>
 
 ---
 
@@ -16,7 +16,7 @@
 
 ## 🌟 Featured Project
 
-- **RABOT**
+- **RABOT**:
   Developed an AI-powered Research Assistant using RAG, enabling users to search research papers, retrieve relevant information, generate structured summaries,      and interact with papers through context-aware natural language question answering.
 
 🔗 **Repository:** https://github.com/AyazAhmad03/RABOT-Research-Analyst-Assistant-BOT-
