@@ -1,5 +1,5 @@
-<h1 align="Centre">Ayaz Ahmad</h1>
-<h3 align="Centre">AI Engineer</h3>
+<h1 align="Center">Ayaz Ahmad</h1>
+<h3 align="Center">AI Engineer</h3>
 
 ---
 
