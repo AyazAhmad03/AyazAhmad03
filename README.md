@@ -1,5 +1,6 @@
 <h1 align="Center">Ayaz Ahmad</h1>
 <h3 align="Center">AI Engineer</h3>
+<h4 align="center">Final Year B.Tech Student | Artificial Intelligence & Machine Learning</h4>
 
 ---
 
