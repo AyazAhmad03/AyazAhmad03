@@ -24,7 +24,7 @@
 
 
 - **MLPilot**:
-  Developed an autonomous AI/ML agent to automate the end-to-end machine learning workflow from dataset
+  Building an autonomous AI/ML agent to automate the end-to-end machine learning workflow from dataset
 analysis and preprocessing to model training and evaluation.
 
 
