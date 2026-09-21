@@ -28,7 +28,7 @@
 analysis and preprocessing to model training and evaluation.
 
 
-🔗 **Repository:** https://github.com/AyazAhmad03/MLPilot-
+🔗 **Repository:** https://github.com/AyazAhmad03/MLPilot
 
 ## 📫 Let's Connect
 
