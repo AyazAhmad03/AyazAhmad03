@@ -26,14 +26,6 @@
 
 <img src="assets/stack.svg" width="100%" alt="Tech stack: Python, C++, C, Java, SQL, machine learning, deep learning, NLP, generative AI, web and tools"/>
 
-## ✦ GitHub Snapshot
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AyazAhmad03&show_icons=true&hide_border=true&bg_color=0A0B10&title_color=F2B15C&text_color=E8E6E1&icon_color=8B7CFF&ring_color=F2B15C" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyazAhmad03&layout=compact&hide_border=true&bg_color=0A0B10&title_color=F2B15C&text_color=E8E6E1" alt="Top languages"/>
-
-</div>
 
 ## ✦ Let's Connect
 
