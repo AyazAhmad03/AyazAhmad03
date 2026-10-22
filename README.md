@@ -16,7 +16,7 @@
 
 <p align="center">
 <a href="https://rabot.ayaza.me"><img src="assets/card-rabot.svg" width="48%" alt="RABOT · Research Analyst Assistant Bot · live"/></a>
-<a href="https://github.com/AyazAhmad03/MLPilot"><img src="assets/card-mlpilot.svg" width="48%" alt="MLPilot · Autonomous ML Agent"/></a>
+<a href="https://github.com/AyazAhmad03/MLPilot"><img src="assets/card-mlpilot.svg" width="48%" alt="MLPilot · Autonomous ML Agent . live"/></a>
 </p>
 
 <p align="center">
