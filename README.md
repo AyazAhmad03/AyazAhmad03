@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Ayaz Ahmad · AI Engineer · Final-Year B.Tech | Artificial Intelligence & Machine Learning"/>
+<img src="assets/header-alt.svg" width="100%" alt="Ayaz Ahmad · AI Engineer · Final-Year B.Tech | Artificial Intelligence & Machine Learning"/>
 
 <a href="#-featured-projects"><img src="assets/nav-projects.svg" height="40" alt="Projects"/></a>
 <a href="#-tech-stack"><img src="assets/nav-stack.svg" height="40" alt="Stack"/></a>
